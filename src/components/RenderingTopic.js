@@ -1,5 +1,3 @@
-
-
 import React from 'react'
 import { useHistory } from 'react-router-dom'
 
@@ -15,4 +13,4 @@ const RenderingTopic = () => {
   )
 }
 
-export default RenderingTopic
+export default RenderingTopic;
